@@ -4,12 +4,12 @@ plugins {
     with(Plugins.Shadow) { id(id) version (version) }
 }
 
-group = "juliet"
+group = "com.github.Lipen"
 version = "1.3.1"
 
 subprojects {
-    // group = "${rootProject.group}.${rootProject.name}"
-    group = rootProject.group
+    group = "${rootProject.group}.${rootProject.name}"
+    // group = rootProject.group
     version = rootProject.version
 }
 
