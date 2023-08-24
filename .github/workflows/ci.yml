@@ -29,3 +29,4 @@ jobs:
           path: |
             juliet-*/build/libs/*.jar
             !**/*-sources.jar
+            !**/*-javadoc.jar
