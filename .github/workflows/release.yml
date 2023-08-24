@@ -28,6 +28,6 @@ jobs:
         with:
           draft: true
           files: |
-            jacodb-*/build/libs/*.jar
+            juliet-*/build/libs/*.jar
             !**/*-sources.jar
             !**/*-javadoc.jar
