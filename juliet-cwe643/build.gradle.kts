@@ -4,6 +4,6 @@ plugins {
 
 dependencies {
     implementation(project(":utils"))
-    compileOnly("javax.servlet:javax.servlet-api:4.0.1")
-    implementation("commons-lang:commons-lang:2.6")
+    compileOnly(Libs.JavaxServlet.javax_servlet_api)
+    implementation(Libs.CommonsLang.commons_lang)
 }
