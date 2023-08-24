@@ -22,7 +22,7 @@ allprojects {
     }
 
     java {
-        withSourcesJar()
+        // withSourcesJar()
         // withJavadocJar()
     }
 
