@@ -27,6 +27,6 @@ jobs:
         with:
           name: jars
           path: |
-            juliet-*/build/libs/*.jar
+            **/build/libs/*.jar
             !**/*-sources.jar
             !**/*-javadoc.jar
