@@ -2,6 +2,7 @@ rootProject.name = "juliet"
 
 plugins {
     `gradle-enterprise`
+    id("org.ajoberstar.reckon.settings") version "0.18.0"
 }
 
 gradleEnterprise {
@@ -9,6 +10,13 @@ gradleEnterprise {
         termsOfServiceUrl = "https://gradle.com/terms-of-service"
         termsOfServiceAgree = "yes"
     }
+}
+
+extensions.configure<org.ajoberstar.reckon.gradle.ReckonExtension> {
+    setDefaultInferredScope("patch")
+    snapshots()
+    setScopeCalc(calcScopeFromProp().or(calcScopeFromCommitMessages()))
+    setStageCalc(calcStageFromProp())
 }
 
 fun myInclude(name: String) {

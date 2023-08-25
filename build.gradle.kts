@@ -5,7 +5,6 @@ plugins {
 }
 
 group = "com.github.Lipen"
-version = "1.3.1"
 
 subprojects {
     group = "${rootProject.group}.${rootProject.name}"
