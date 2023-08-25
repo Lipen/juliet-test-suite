@@ -9,7 +9,6 @@ version = "1.3.1"
 
 subprojects {
     group = "${rootProject.group}.${rootProject.name}"
-    // group = rootProject.group
     version = rootProject.version
 }
 
