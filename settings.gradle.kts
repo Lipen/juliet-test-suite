@@ -16,7 +16,7 @@ fun myInclude(name: String) {
     project(":$name").projectDir = file("${rootProject.name}-$name")
 }
 
-myInclude("utils")
+myInclude("support")
 myInclude("cwe15")
 myInclude("cwe23")
 myInclude("cwe36")
