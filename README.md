@@ -1,18 +1,37 @@
 # Juliet Test Suite
 
-A collection of test cases in the Java language. It contains examples for 112 different CWEs. 
-The test suite is taken from [NIST website](https://samate.nist.gov/SRD/testsuite.php)
+[![Release](https://jitpack.io/v/Lipen/juliet-test-suite.svg)](https://jitpack.io/p/Lipen/juliet-test-suite)
 
-This repository add alternative build integration : Gradle and Maven
+A collection of test cases in the Java language. It contains examples for 112 different CWEs.
+The test suite is taken from the [NIST website](https://samate.nist.gov/SRD/testsuite.php)
 
-## Gradle
+## Build
+
+To build the Juliet Test Suite, simply execute the following command:
+
+```sh
+./gradlew build
+```
+
+Once built, you can locate the compiled JARs within `**/build/libs/*.jar`.
+
+## Gradle dependency
+
+Each CWE is available as a separate artifact on [JitPack](https://jitpack.io/):
 
 ```
-gradle build
+repositories {
+    maven(url = "https://jitpack.io/")
+}
+
+dependencies {
+    // CWE476: NULL Pointer Dereference
+    implementation("com.github.Lipen.juliet-test-suite:cwe476:$version")
+
+    // Include the `support` module, if needed:
+    implementation("com.github.Lipen.juliet-test-suite:support:$version")
+}
 ```
 
-## Maven
-
-```
-mvn compile
-```
+You also have the option to include the entire repository as a dependency by adding `com.github.Lipen:juliet-test-suite:$version` to your project.
+However, please be aware that the complete artifact, which includes all CWEs, is quite substantial in size, exceeding 60MB.
