@@ -13,7 +13,7 @@ To build the Juliet Test Suite, simply execute the following command:
 ./gradlew build
 ```
 
-Once built, you can locate the compiled JARs within `**/build/libs/*.jar`.
+Once built, you can locate the compiled JARs within `juliet-*/build/libs/*.jar` directories.
 
 ## Gradle dependency
 
