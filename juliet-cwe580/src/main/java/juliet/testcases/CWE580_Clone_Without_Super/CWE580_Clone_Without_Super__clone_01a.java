@@ -5,7 +5,7 @@
 
 package juliet.testcases.CWE580_Clone_Without_Super;
 
-import juliet.utils.*;
+import juliet.support.*;
 
 public class CWE580_Clone_Without_Super__clone_01a extends AbstractTestCaseClassIssue implements Cloneable
 {

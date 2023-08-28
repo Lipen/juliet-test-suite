@@ -42,7 +42,7 @@
       fork="true"
       memoryinitialsize="1024m"
       memorymaximumsize="1024m"
-      excludes="*Main.java"> <!--Don't use the Mains in juliet.utils -->
+      excludes="*Main.java"> <!--Don't use the Mains in juliet.support -->
 		<classpath refid="project.classpath"/>
 	</javac>
 	

@@ -16,7 +16,7 @@ Template File: sources-sinks-74b.tmpl.java
  * */
 
 package juliet.testcases.CWE191_Integer_Underflow.s01;
-import juliet.utils.*;
+import juliet.support.*;
 import java.util.HashMap;
 
 public class CWE191_Integer_Underflow__byte_rand_sub_74b

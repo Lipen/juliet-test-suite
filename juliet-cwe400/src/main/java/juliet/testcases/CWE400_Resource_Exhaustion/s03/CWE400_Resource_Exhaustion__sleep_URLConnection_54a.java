@@ -16,7 +16,7 @@ Template File: sources-sinks-54a.tmpl.java
  * */
 
 package juliet.testcases.CWE400_Resource_Exhaustion.s03;
-import juliet.utils.*;
+import juliet.support.*;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

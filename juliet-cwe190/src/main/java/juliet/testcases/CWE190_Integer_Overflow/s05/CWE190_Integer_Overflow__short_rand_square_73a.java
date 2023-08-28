@@ -16,7 +16,7 @@ Template File: sources-sinks-73a.tmpl.java
  * */
 
 package juliet.testcases.CWE190_Integer_Overflow.s05;
-import juliet.utils.*;
+import juliet.support.*;
 import java.util.LinkedList;
 
 import javax.servlet.http.*;

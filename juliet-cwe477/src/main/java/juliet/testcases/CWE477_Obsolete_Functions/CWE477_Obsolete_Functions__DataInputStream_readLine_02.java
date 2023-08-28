@@ -15,7 +15,7 @@ Template File: point-flaw-02.tmpl.java
 
 package juliet.testcases.CWE477_Obsolete_Functions;
 
-import juliet.utils.*;
+import juliet.support.*;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

@@ -15,7 +15,7 @@ Template File: point-flaw-16.tmpl.java
 
 package juliet.testcases.CWE459_Incomplete_Cleanup;
 
-import juliet.utils.*;
+import juliet.support.*;
 
 import java.io.File;
 import java.io.IOException;

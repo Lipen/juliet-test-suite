@@ -16,7 +16,7 @@ Template File: sources-sinks-53c.tmpl.java
  * */
 
 package juliet.testcases.CWE191_Integer_Underflow.s03;
-import juliet.utils.*;
+import juliet.support.*;
 
 public class CWE191_Integer_Underflow__long_min_multiply_53c
 {

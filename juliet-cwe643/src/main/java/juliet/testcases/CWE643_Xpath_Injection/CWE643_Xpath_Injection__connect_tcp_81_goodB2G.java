@@ -17,7 +17,7 @@ Template File: sources-sinks-81_goodB2G.tmpl.java
 
 package juliet.testcases.CWE643_Xpath_Injection;
 
-import juliet.utils.*;
+import juliet.support.*;
 
 import javax.servlet.http.*;
 

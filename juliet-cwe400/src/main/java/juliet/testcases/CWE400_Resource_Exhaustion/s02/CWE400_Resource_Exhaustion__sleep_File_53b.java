@@ -16,7 +16,7 @@ Template File: sources-sinks-53b.tmpl.java
  * */
 
 package juliet.testcases.CWE400_Resource_Exhaustion.s02;
-import juliet.utils.*;
+import juliet.support.*;
 
 public class CWE400_Resource_Exhaustion__sleep_File_53b
 {

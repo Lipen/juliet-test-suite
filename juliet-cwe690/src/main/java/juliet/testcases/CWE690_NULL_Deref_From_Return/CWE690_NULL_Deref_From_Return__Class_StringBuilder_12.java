@@ -17,7 +17,7 @@ Template File: sources-sinks-12.tmpl.java
 
 package juliet.testcases.CWE690_NULL_Deref_From_Return;
 
-import juliet.utils.*;
+import juliet.support.*;
 
 public class CWE690_NULL_Deref_From_Return__Class_StringBuilder_12 extends AbstractTestCase
 {

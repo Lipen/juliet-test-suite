@@ -16,7 +16,7 @@ Template File: sources-sinks-81_goodB2G.tmpl.java
  * */
 
 package juliet.testcases.CWE134_Uncontrolled_Format_String.s01;
-import juliet.utils.*;
+import juliet.support.*;
 
 public class CWE134_Uncontrolled_Format_String__console_readLine_format_81_goodB2G extends CWE134_Uncontrolled_Format_String__console_readLine_format_81_base
 {

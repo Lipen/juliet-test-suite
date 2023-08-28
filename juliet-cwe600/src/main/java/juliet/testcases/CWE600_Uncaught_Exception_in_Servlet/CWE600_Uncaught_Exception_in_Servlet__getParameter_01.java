@@ -21,7 +21,7 @@ import java.io.IOException;
 import java.net.InetAddress;
 import javax.servlet.http.*;
 
-import juliet.utils.*;
+import juliet.support.*;
 
 public class CWE600_Uncaught_Exception_in_Servlet__getParameter_01 extends AbstractTestCaseServlet 
 {

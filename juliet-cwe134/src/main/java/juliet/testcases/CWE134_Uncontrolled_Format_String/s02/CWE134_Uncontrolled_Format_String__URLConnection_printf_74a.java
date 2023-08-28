@@ -16,7 +16,7 @@ Template File: sources-sinks-74a.tmpl.java
  * */
 
 package juliet.testcases.CWE134_Uncontrolled_Format_String.s02;
-import juliet.utils.*;
+import juliet.support.*;
 import java.util.HashMap;
 
 import java.io.BufferedReader;

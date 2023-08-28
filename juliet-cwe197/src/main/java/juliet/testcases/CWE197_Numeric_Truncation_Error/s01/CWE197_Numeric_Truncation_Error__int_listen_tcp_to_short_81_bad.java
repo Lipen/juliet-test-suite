@@ -15,7 +15,7 @@ Template File: sources-sink-81_bad.tmpl.java
  * */
 
 package juliet.testcases.CWE197_Numeric_Truncation_Error.s01;
-import juliet.utils.*;
+import juliet.support.*;
 
 public class CWE197_Numeric_Truncation_Error__int_listen_tcp_to_short_81_bad extends CWE197_Numeric_Truncation_Error__int_listen_tcp_to_short_81_base
 {

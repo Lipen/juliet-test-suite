@@ -5,8 +5,8 @@
 
 package juliet.testcases.CWE674_Uncontrolled_Recursion;
 
-import juliet.utils.AbstractTestCase;
-import juliet.utils.IO;
+import juliet.support.AbstractTestCase;
+import juliet.support.IO;
 
 public class CWE674_Uncontrolled_Recursion__long_01 extends AbstractTestCase 
 {

@@ -16,7 +16,7 @@ Template File: sources-sink-75b.tmpl.java
 
 package juliet.testcases.CWE601_Open_Redirect;
 
-import juliet.utils.*;
+import juliet.support.*;
 import java.io.ByteArrayInputStream;
 import java.io.ObjectInputStream;
 import java.io.IOException;

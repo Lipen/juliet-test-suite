@@ -4,7 +4,7 @@ AbstractTestCase classes.
 
 */
 
-package juliet.utils;
+package juliet.support;
 
 public abstract class AbstractTestCaseBase 
 {

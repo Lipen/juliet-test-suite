@@ -15,7 +15,7 @@ Template File: point-flaw-05.tmpl.java
 
 package juliet.testcases.CWE478_Missing_Default_Case_in_Switch;
 
-import juliet.utils.*;
+import juliet.support.*;
 
 import java.io.*;
 

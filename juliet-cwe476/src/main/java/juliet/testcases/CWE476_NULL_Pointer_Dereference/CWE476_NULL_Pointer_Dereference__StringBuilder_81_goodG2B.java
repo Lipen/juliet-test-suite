@@ -17,7 +17,7 @@ Template File: sources-sinks-81_goodG2B.tmpl.java
 
 package juliet.testcases.CWE476_NULL_Pointer_Dereference;
 
-import juliet.utils.*;
+import juliet.support.*;
 
 public class CWE476_NULL_Pointer_Dereference__StringBuilder_81_goodG2B extends CWE476_NULL_Pointer_Dereference__StringBuilder_81_base
 {

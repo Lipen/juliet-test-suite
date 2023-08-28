@@ -17,7 +17,7 @@ Template File: sources-sinks-75a.tmpl.java
 
 package juliet.testcases.CWE315_Plaintext_Storage_in_Cookie;
 
-import juliet.utils.*;
+import juliet.support.*;
 import java.io.ByteArrayOutputStream;
 import java.io.ObjectOutput;
 import java.io.ObjectOutputStream;

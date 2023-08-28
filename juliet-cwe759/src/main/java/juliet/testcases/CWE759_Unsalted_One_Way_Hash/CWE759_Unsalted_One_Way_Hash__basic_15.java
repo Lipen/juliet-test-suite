@@ -15,7 +15,7 @@ Template File: point-flaw-15.tmpl.java
 
 package juliet.testcases.CWE759_Unsalted_One_Way_Hash;
 
-import juliet.utils.*;
+import juliet.support.*;
 
 import java.security.MessageDigest;
 import java.security.SecureRandom;

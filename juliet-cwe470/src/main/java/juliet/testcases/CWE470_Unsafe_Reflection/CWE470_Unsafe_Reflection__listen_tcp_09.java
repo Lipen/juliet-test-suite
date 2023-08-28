@@ -15,7 +15,7 @@ Template File: sources-sink-09.tmpl.java
 
 package juliet.testcases.CWE470_Unsafe_Reflection;
 
-import juliet.utils.*;
+import juliet.support.*;
 
 import javax.servlet.http.*;
 

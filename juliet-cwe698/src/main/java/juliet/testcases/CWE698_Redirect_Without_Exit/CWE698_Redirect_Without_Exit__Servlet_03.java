@@ -15,7 +15,7 @@ Template File: point-flaw-03.tmpl.java
 
 package juliet.testcases.CWE698_Redirect_Without_Exit;
 
-import juliet.utils.*;
+import juliet.support.*;
 
 import javax.servlet.http.*;
 

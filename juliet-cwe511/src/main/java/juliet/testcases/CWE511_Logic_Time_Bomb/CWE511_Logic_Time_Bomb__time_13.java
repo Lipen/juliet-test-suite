@@ -15,7 +15,7 @@ Template File: point-flaw-13.tmpl.java
 
 package juliet.testcases.CWE511_Logic_Time_Bomb;
 
-import juliet.utils.*;
+import juliet.support.*;
 
 import java.util.Calendar;
 

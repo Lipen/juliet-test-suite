@@ -15,7 +15,7 @@ Template File: point-flaw-17.tmpl.java
 
 package juliet.testcases.CWE396_Catch_Generic_Exception;
 
-import juliet.utils.*;
+import juliet.support.*;
 
 public class CWE396_Catch_Generic_Exception__Exception_17 extends AbstractTestCase
 {

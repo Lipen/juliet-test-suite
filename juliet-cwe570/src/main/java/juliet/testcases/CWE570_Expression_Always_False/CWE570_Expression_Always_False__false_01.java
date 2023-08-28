@@ -4,8 +4,8 @@
  * */
 package juliet.testcases.CWE570_Expression_Always_False;
 
-import juliet.utils.AbstractTestCase;
-import juliet.utils.IO;
+import juliet.support.AbstractTestCase;
+import juliet.support.IO;
 
 public class CWE570_Expression_Always_False__false_01 extends AbstractTestCase 
 {

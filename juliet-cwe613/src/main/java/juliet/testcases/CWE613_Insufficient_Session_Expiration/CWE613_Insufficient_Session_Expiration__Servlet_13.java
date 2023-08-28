@@ -15,7 +15,7 @@ Template File: point-flaw-13.tmpl.java
 
 package juliet.testcases.CWE613_Insufficient_Session_Expiration;
 
-import juliet.utils.*;
+import juliet.support.*;
 
 import javax.servlet.http.*;
 

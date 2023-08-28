@@ -15,7 +15,7 @@ Template File: point-flaw-11.tmpl.java
 
 package juliet.testcases.CWE476_NULL_Pointer_Dereference;
 
-import juliet.utils.*;
+import juliet.support.*;
 
 public class CWE476_NULL_Pointer_Dereference__binary_if_11 extends AbstractTestCase
 {

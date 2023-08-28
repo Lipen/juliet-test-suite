@@ -10,7 +10,7 @@
 package juliet.testcases.CWE491_Object_Hijack;
 
 import java.util.Date;
-import juliet.utils.*;
+import juliet.support.*;
 
 public class CWE491_Object_Hijack__basic_01_bad extends AbstractTestCaseClassIssueBad implements Cloneable 
 {

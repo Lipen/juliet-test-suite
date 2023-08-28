@@ -16,7 +16,7 @@ Template File: sources-sink-54b.tmpl.java
 
 package juliet.testcases.CWE321_Hard_Coded_Cryptographic_Key;
 
-import juliet.utils.*;
+import juliet.support.*;
 
 public class CWE321_Hard_Coded_Cryptographic_Key__basic_54b
 {

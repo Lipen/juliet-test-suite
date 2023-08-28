@@ -15,7 +15,7 @@ Template File: point-flaw-10.tmpl.java
 
 package juliet.testcases.CWE597_Wrong_Operator_String_Comparison;
 
-import juliet.utils.*;
+import juliet.support.*;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

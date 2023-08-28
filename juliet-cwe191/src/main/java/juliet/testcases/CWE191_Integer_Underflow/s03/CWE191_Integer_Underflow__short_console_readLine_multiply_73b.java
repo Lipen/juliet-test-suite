@@ -16,7 +16,7 @@ Template File: sources-sinks-73b.tmpl.java
  * */
 
 package juliet.testcases.CWE191_Integer_Underflow.s03;
-import juliet.utils.*;
+import juliet.support.*;
 import java.util.LinkedList;
 
 public class CWE191_Integer_Underflow__short_console_readLine_multiply_73b

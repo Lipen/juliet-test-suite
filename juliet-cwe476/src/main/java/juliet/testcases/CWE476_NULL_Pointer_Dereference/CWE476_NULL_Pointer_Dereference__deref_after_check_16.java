@@ -15,7 +15,7 @@ Template File: point-flaw-16.tmpl.java
 
 package juliet.testcases.CWE476_NULL_Pointer_Dereference;
 
-import juliet.utils.*;
+import juliet.support.*;
 
 public class CWE476_NULL_Pointer_Dereference__deref_after_check_16 extends AbstractTestCase
 {

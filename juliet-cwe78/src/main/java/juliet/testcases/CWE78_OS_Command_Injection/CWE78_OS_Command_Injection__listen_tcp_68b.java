@@ -15,7 +15,7 @@ Template File: sources-sink-68b.tmpl.java
 
 package juliet.testcases.CWE78_OS_Command_Injection;
 
-import juliet.utils.*;
+import juliet.support.*;
 
 import javax.servlet.http.*;
 

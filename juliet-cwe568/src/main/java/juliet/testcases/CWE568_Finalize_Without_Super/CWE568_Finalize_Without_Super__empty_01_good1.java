@@ -6,8 +6,8 @@ package juliet.testcases.CWE568_Finalize_Without_Super;
 
 import java.util.logging.Level;
 
-import juliet.utils.AbstractTestCaseClassIssueGood;
-import juliet.utils.IO;
+import juliet.support.AbstractTestCaseClassIssueGood;
+import juliet.support.IO;
 
 public class CWE568_Finalize_Without_Super__empty_01_good1 extends AbstractTestCaseClassIssueGood 
 {

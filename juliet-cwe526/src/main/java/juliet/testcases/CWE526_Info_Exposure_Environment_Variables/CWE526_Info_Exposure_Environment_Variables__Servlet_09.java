@@ -15,7 +15,7 @@ Template File: point-flaw-09.tmpl.java
 
 package juliet.testcases.CWE526_Info_Exposure_Environment_Variables;
 
-import juliet.utils.*;
+import juliet.support.*;
 
 import javax.servlet.http.*;
 

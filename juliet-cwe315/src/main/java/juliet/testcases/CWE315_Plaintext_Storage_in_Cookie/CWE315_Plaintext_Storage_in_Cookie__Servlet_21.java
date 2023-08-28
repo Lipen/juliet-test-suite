@@ -17,7 +17,7 @@ Template File: sources-sinks-21.tmpl.java
 
 package juliet.testcases.CWE315_Plaintext_Storage_in_Cookie;
 
-import juliet.utils.*;
+import juliet.support.*;
 
 import javax.servlet.http.*;
 

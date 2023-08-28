@@ -14,7 +14,7 @@ Template File: point-flaw-14.tmpl.java
 * */
 
 package juliet.testcases.CWE789_Uncontrolled_Mem_Alloc.s02;
-import juliet.utils.*;
+import juliet.support.*;
 
 import java.util.ArrayList;
 

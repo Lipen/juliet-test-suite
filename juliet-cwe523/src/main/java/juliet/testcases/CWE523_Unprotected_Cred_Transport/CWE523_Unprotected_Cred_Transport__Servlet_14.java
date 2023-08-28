@@ -15,7 +15,7 @@ Template File: point-flaw-14.tmpl.java
 
 package juliet.testcases.CWE523_Unprotected_Cred_Transport;
 
-import juliet.utils.*;
+import juliet.support.*;
 
 import javax.servlet.http.*;
 

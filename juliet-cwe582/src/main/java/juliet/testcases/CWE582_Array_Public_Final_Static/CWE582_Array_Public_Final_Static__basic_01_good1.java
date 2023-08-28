@@ -7,7 +7,7 @@
 
 package juliet.testcases.CWE582_Array_Public_Final_Static;
 
-import juliet.utils.*;
+import juliet.support.*;
 
 public class CWE582_Array_Public_Final_Static__basic_01_good1 extends AbstractTestCaseClassIssueGood
 {

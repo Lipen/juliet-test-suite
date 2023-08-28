@@ -17,7 +17,7 @@ Template File: sources-sinks-81_base.tmpl.java
 
 package juliet.testcases.CWE476_NULL_Pointer_Dereference;
 
-import juliet.utils.*;
+import juliet.support.*;
 
 public abstract class CWE476_NULL_Pointer_Dereference__Integer_81_base
 {

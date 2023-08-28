@@ -17,7 +17,7 @@ Template File: sources-sinks-72b.tmpl.java
 
 package juliet.testcases.CWE256_Plaintext_Storage_of_Password;
 
-import juliet.utils.*;
+import juliet.support.*;
 import java.util.Vector;
 
 import javax.servlet.http.*;

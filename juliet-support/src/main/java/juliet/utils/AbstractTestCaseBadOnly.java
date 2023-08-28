@@ -3,7 +3,7 @@
 
 */
 
-package juliet.utils;
+package juliet.support;
 
 public abstract class AbstractTestCaseBadOnly extends AbstractTestCaseBase {
 

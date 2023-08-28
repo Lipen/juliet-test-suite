@@ -15,7 +15,7 @@ Template File: point-flaw-12.tmpl.java
 
 package juliet.testcases.CWE511_Logic_Time_Bomb;
 
-import juliet.utils.*;
+import juliet.support.*;
 
 public class CWE511_Logic_Time_Bomb__counter_12 extends AbstractTestCase
 {

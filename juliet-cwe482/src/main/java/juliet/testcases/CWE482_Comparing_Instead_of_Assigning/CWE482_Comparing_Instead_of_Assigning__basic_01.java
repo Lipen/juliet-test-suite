@@ -15,7 +15,7 @@ Template File: point-flaw-01.tmpl.java
 
 package juliet.testcases.CWE482_Comparing_Instead_of_Assigning;
 
-import juliet.utils.*;
+import juliet.support.*;
 
 import java.security.SecureRandom;
 

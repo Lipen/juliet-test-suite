@@ -16,7 +16,7 @@ Template File: sources-sinks-03.tmpl.java
 * */
 
 package juliet.testcases.CWE134_Uncontrolled_Format_String.s01;
-import juliet.utils.*;
+import juliet.support.*;
 
 public class CWE134_Uncontrolled_Format_String__Property_printf_03 extends AbstractTestCase
 {

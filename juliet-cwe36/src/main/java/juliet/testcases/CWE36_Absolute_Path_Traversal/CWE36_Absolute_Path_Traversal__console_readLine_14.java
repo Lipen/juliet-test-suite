@@ -15,7 +15,7 @@ Template File: sources-sink-14.tmpl.java
 
 package juliet.testcases.CWE36_Absolute_Path_Traversal;
 
-import juliet.utils.*;
+import juliet.support.*;
 
 import java.io.*;
 import javax.servlet.http.*;

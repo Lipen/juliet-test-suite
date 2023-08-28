@@ -17,7 +17,7 @@ Template File: sources-sinks-74b.tmpl.java
 
 package juliet.testcases.CWE476_NULL_Pointer_Dereference;
 
-import juliet.utils.*;
+import juliet.support.*;
 import java.util.HashMap;
 
 public class CWE476_NULL_Pointer_Dereference__String_74b

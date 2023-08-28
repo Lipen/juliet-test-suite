@@ -16,7 +16,7 @@ Template File: sources-sinks-42.tmpl.java
  * */
 
 package juliet.testcases.CWE369_Divide_by_Zero.s04;
-import juliet.utils.*;
+import juliet.support.*;
 
 import javax.servlet.http.*;
 

@@ -15,7 +15,7 @@ Template File: point-flaw-12.tmpl.java
 
 package juliet.testcases.CWE506_Embedded_Malicious_Code;
 
-import juliet.utils.*;
+import juliet.support.*;
 
 import java.io.FileOutputStream;
 import java.io.File;

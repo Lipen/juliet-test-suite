@@ -16,7 +16,7 @@ Template File: sources-sinks-08.tmpl.java
 * */
 
 package juliet.testcases.CWE400_Resource_Exhaustion.s03;
-import juliet.utils.*;
+import juliet.support.*;
 
 import java.util.logging.Level;
 

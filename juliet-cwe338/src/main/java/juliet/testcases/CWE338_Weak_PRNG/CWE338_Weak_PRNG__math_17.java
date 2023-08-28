@@ -15,7 +15,7 @@ Template File: point-flaw-17.tmpl.java
 
 package juliet.testcases.CWE338_Weak_PRNG;
 
-import juliet.utils.*;
+import juliet.support.*;
 
 import java.security.SecureRandom;
 

@@ -5,7 +5,7 @@
 
 package juliet.testcases.CWE835_Infinite_Loop;
 
-import juliet.utils.*;
+import juliet.support.*;
 
 public class CWE835_Infinite_Loop__while_01 extends AbstractTestCase 
 {    

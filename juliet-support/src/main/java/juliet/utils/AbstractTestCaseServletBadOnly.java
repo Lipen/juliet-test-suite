@@ -14,7 +14,7 @@ function.
  *   - You should now be able to test the servlet by clicking Run in eclipse  
  */
 
-package juliet.utils;
+package juliet.support;
 
 import java.io.IOException;
 import javax.servlet.http.*;

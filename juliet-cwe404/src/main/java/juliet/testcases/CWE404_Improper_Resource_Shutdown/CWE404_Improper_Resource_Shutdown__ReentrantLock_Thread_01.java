@@ -6,8 +6,8 @@ package juliet.testcases.CWE404_Improper_Resource_Shutdown;
 
 import java.util.concurrent.locks.ReentrantLock;
 
-import juliet.utils.AbstractTestCase;
-import juliet.utils.IO;
+import juliet.support.AbstractTestCase;
+import juliet.support.IO;
 
 public class CWE404_Improper_Resource_Shutdown__ReentrantLock_Thread_01 extends AbstractTestCase 
 {

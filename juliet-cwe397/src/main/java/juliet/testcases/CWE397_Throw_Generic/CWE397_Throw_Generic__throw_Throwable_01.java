@@ -5,7 +5,7 @@
 
 package juliet.testcases.CWE397_Throw_Generic;
 
-import juliet.utils.AbstractTestCase;
+import juliet.support.AbstractTestCase;
 import java.io.FileNotFoundException;
 
 public class CWE397_Throw_Generic__throw_Throwable_01 extends AbstractTestCase 

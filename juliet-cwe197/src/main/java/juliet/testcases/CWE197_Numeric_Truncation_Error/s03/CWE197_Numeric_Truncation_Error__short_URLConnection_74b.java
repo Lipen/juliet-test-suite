@@ -15,7 +15,7 @@ Template File: sources-sink-74b.tmpl.java
  * */
 
 package juliet.testcases.CWE197_Numeric_Truncation_Error.s03;
-import juliet.utils.*;
+import juliet.support.*;
 import java.util.HashMap;
 
 public class CWE197_Numeric_Truncation_Error__short_URLConnection_74b

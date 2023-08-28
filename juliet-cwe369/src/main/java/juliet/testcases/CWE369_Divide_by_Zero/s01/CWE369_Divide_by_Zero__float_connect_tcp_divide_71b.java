@@ -16,7 +16,7 @@ Template File: sources-sinks-71b.tmpl.java
  * */
 
 package juliet.testcases.CWE369_Divide_by_Zero.s01;
-import juliet.utils.*;
+import juliet.support.*;
 
 public class CWE369_Divide_by_Zero__float_connect_tcp_divide_71b
 {

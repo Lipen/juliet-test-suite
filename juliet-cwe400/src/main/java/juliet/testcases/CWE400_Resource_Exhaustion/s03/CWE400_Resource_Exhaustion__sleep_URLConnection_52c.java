@@ -16,7 +16,7 @@ Template File: sources-sinks-52c.tmpl.java
  * */
 
 package juliet.testcases.CWE400_Resource_Exhaustion.s03;
-import juliet.utils.*;
+import juliet.support.*;
 
 public class CWE400_Resource_Exhaustion__sleep_URLConnection_52c
 {

@@ -16,7 +16,7 @@ Template File: sources-sinks-81_base.tmpl.java
  * */
 
 package juliet.testcases.CWE369_Divide_by_Zero.s02;
-import juliet.utils.*;
+import juliet.support.*;
 
 public abstract class CWE369_Divide_by_Zero__float_URLConnection_divide_81_base
 {

@@ -9,7 +9,7 @@
  package juliet.testcases.CWE580_Clone_Without_Super;
 
 import java.util.Date;
-import juliet.utils.*;
+import juliet.support.*;
 
 public class CWE580_Clone_Without_Super__clone_01_bad extends AbstractTestCaseClassIssueBad implements Cloneable
 {

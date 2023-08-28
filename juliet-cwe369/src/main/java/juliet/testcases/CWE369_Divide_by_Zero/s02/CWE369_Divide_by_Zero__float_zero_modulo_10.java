@@ -16,7 +16,7 @@ Template File: sources-sinks-10.tmpl.java
 * */
 
 package juliet.testcases.CWE369_Divide_by_Zero.s02;
-import juliet.utils.*;
+import juliet.support.*;
 
 public class CWE369_Divide_by_Zero__float_zero_modulo_10 extends AbstractTestCase
 {

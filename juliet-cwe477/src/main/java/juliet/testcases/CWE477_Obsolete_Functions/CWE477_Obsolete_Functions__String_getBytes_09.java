@@ -15,7 +15,7 @@ Template File: point-flaw-09.tmpl.java
 
 package juliet.testcases.CWE477_Obsolete_Functions;
 
-import juliet.utils.*;
+import juliet.support.*;
 
 public class CWE477_Obsolete_Functions__String_getBytes_09 extends AbstractTestCase
 {

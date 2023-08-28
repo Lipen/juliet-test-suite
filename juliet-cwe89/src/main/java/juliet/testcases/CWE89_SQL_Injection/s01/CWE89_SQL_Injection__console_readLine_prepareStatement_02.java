@@ -16,7 +16,7 @@ Template File: sources-sinks-02.tmpl.java
 * */
 
 package juliet.testcases.CWE89_SQL_Injection.s01;
-import juliet.utils.*;
+import juliet.support.*;
 
 import javax.servlet.http.*;
 

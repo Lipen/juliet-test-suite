@@ -16,7 +16,7 @@ Template File: sources-sink-74a.tmpl.java
 
 package juliet.testcases.CWE321_Hard_Coded_Cryptographic_Key;
 
-import juliet.utils.*;
+import juliet.support.*;
 import java.util.HashMap;
 
 import java.io.InputStreamReader;

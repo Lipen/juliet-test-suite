@@ -15,7 +15,7 @@ Template File: sources-sink-52c.tmpl.java
  * */
 
 package juliet.testcases.CWE197_Numeric_Truncation_Error.s02;
-import juliet.utils.*;
+import juliet.support.*;
 
 public class CWE197_Numeric_Truncation_Error__short_Environment_52c
 {

@@ -16,7 +16,7 @@ Template File: sources-sinks-81_base.tmpl.java
  * */
 
 package juliet.testcases.CWE191_Integer_Underflow.s01;
-import juliet.utils.*;
+import juliet.support.*;
 
 public abstract class CWE191_Integer_Underflow__byte_rand_sub_81_base
 {

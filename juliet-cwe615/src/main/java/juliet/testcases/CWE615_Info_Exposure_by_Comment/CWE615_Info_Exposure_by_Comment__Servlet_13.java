@@ -15,7 +15,7 @@ Template File: point-flaw-13.tmpl.java
 
 package juliet.testcases.CWE615_Info_Exposure_by_Comment;
 
-import juliet.utils.*;
+import juliet.support.*;
 
 import javax.servlet.http.*;
 

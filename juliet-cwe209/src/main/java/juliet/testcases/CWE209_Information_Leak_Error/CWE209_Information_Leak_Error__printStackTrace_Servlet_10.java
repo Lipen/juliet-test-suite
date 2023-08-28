@@ -15,7 +15,7 @@ Template File: point-flaw-10.tmpl.java
 
 package juliet.testcases.CWE209_Information_Leak_Error;
 
-import juliet.utils.*;
+import juliet.support.*;
 
 import javax.servlet.http.*;
 

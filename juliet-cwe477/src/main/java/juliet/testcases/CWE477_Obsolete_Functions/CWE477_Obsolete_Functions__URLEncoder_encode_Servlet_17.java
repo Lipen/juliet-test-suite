@@ -15,7 +15,7 @@ Template File: point-flaw-17.tmpl.java
 
 package juliet.testcases.CWE477_Obsolete_Functions;
 
-import juliet.utils.*;
+import juliet.support.*;
 
 import java.net.URLEncoder;
 import javax.servlet.http.*;

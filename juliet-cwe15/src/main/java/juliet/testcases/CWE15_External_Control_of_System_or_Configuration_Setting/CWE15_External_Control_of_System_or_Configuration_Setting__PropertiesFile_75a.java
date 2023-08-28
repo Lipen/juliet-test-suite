@@ -16,7 +16,7 @@ Template File: sources-sink-75a.tmpl.java
 
 package juliet.testcases.CWE15_External_Control_of_System_or_Configuration_Setting;
 
-import juliet.utils.*;
+import juliet.support.*;
 import java.io.ByteArrayOutputStream;
 import java.io.ObjectOutput;
 import java.io.ObjectOutputStream;

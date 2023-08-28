@@ -15,7 +15,7 @@ Template File: point-flaw-04.tmpl.java
 
 package juliet.testcases.CWE477_Obsolete_Functions;
 
-import juliet.utils.*;
+import juliet.support.*;
 
 public class CWE477_Obsolete_Functions__Date_parse_04 extends AbstractTestCase
 {

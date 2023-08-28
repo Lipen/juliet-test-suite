@@ -10,7 +10,7 @@ package juliet.testcases.CWE607_Public_Static_Final_Mutable;
 import java.util.Calendar;
 import java.util.Date;
 
-import juliet.utils.*;
+import juliet.support.*;
 
 public class CWE607_Public_Static_Final_Mutable__console_01_bad extends AbstractTestCaseClassIssueBad 
 {

@@ -23,7 +23,7 @@ import java.io.Serializable;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
-import juliet.utils.AbstractTestCaseServlet;
+import juliet.support.AbstractTestCaseServlet;
 
 public class CWE579_Non_Serializable_in_Session__Servlet_01 extends AbstractTestCaseServlet 
 {

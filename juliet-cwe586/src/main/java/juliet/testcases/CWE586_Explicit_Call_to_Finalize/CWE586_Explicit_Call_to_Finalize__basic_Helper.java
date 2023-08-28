@@ -7,7 +7,7 @@ package juliet.testcases.CWE586_Explicit_Call_to_Finalize;
 
 import java.util.logging.Level;
 
-import juliet.utils.IO;
+import juliet.support.IO;
 
 public class CWE586_Explicit_Call_to_Finalize__basic_Helper 
 {

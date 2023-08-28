@@ -16,7 +16,7 @@ Template File: sources-sinks-71b.tmpl.java
  * */
 
 package juliet.testcases.CWE134_Uncontrolled_Format_String.s01;
-import juliet.utils.*;
+import juliet.support.*;
 
 public class CWE134_Uncontrolled_Format_String__database_format_71b
 {

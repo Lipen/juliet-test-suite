@@ -15,7 +15,7 @@ Template File: sources-sink-51b.tmpl.java
 
 package juliet.testcases.CWE90_LDAP_Injection;
 
-import juliet.utils.*;
+import juliet.support.*;
 
 import javax.servlet.http.*;
 

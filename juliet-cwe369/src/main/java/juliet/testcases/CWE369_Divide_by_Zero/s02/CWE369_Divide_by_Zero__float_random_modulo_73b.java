@@ -16,7 +16,7 @@ Template File: sources-sinks-73b.tmpl.java
  * */
 
 package juliet.testcases.CWE369_Divide_by_Zero.s02;
-import juliet.utils.*;
+import juliet.support.*;
 import java.util.LinkedList;
 
 public class CWE369_Divide_by_Zero__float_random_modulo_73b

@@ -15,7 +15,7 @@ Template File: point-flaw-12.tmpl.java
 
 package juliet.testcases.CWE395_Catch_NullPointerException;
 
-import juliet.utils.*;
+import juliet.support.*;
 
 public class CWE395_Catch_NullPointerException__basic_12 extends AbstractTestCase
 {

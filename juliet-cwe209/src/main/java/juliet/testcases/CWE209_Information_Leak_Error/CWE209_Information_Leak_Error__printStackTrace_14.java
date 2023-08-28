@@ -15,7 +15,7 @@ Template File: point-flaw-14.tmpl.java
 
 package juliet.testcases.CWE209_Information_Leak_Error;
 
-import juliet.utils.*;
+import juliet.support.*;
 
 public class CWE209_Information_Leak_Error__printStackTrace_14 extends AbstractTestCase
 {

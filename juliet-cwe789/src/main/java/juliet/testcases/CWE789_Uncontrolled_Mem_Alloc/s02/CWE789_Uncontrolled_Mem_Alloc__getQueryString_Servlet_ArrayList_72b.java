@@ -15,7 +15,7 @@ Template File: sources-sink-72b.tmpl.java
  * */
 
 package juliet.testcases.CWE789_Uncontrolled_Mem_Alloc.s02;
-import juliet.utils.*;
+import juliet.support.*;
 import java.util.Vector;
 
 import javax.servlet.http.*;

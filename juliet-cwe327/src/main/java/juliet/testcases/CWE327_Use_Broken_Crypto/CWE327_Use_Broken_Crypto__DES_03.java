@@ -15,7 +15,7 @@ Template File: point-flaw-03.tmpl.java
 
 package juliet.testcases.CWE327_Use_Broken_Crypto;
 
-import juliet.utils.*;
+import juliet.support.*;
 
 import javax.crypto.Cipher;
 import javax.crypto.KeyGenerator;

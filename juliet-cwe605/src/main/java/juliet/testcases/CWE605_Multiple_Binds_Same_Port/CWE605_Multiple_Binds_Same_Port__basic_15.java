@@ -15,7 +15,7 @@ Template File: point-flaw-15.tmpl.java
 
 package juliet.testcases.CWE605_Multiple_Binds_Same_Port;
 
-import juliet.utils.*;
+import juliet.support.*;
 
 import java.net.ServerSocket;
 import java.net.InetSocketAddress;

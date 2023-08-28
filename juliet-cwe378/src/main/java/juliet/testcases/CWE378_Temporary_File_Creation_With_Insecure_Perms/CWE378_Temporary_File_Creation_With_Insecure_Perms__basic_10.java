@@ -15,7 +15,7 @@ Template File: point-flaw-10.tmpl.java
 
 package juliet.testcases.CWE378_Temporary_File_Creation_With_Insecure_Perms;
 
-import juliet.utils.*;
+import juliet.support.*;
 
 import java.io.FileOutputStream;
 import java.io.OutputStreamWriter;

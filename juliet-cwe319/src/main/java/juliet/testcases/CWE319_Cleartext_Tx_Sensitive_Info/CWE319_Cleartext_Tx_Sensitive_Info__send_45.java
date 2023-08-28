@@ -17,7 +17,7 @@ Template File: sources-sinks-45.tmpl.java
 
 package juliet.testcases.CWE319_Cleartext_Tx_Sensitive_Info;
 
-import juliet.utils.*;
+import juliet.support.*;
 
 import java.io.*;
 

@@ -16,7 +16,7 @@ Template File: sources-sink-53c.tmpl.java
 
 package juliet.testcases.CWE83_XSS_Attribute;
 
-import juliet.utils.*;
+import juliet.support.*;
 
 import javax.servlet.http.*;
 

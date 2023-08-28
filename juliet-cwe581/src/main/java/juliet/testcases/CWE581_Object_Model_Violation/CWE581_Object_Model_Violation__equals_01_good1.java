@@ -9,7 +9,7 @@
 
 package juliet.testcases.CWE581_Object_Model_Violation;
 
-import juliet.utils.*;
+import juliet.support.*;
 
 public class CWE581_Object_Model_Violation__equals_01_good1 extends AbstractTestCaseClassIssueGood 
 {

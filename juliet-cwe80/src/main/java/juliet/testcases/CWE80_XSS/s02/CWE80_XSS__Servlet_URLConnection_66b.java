@@ -15,7 +15,7 @@ Template File: sources-sink-66b.tmpl.java
  * */
 
 package juliet.testcases.CWE80_XSS.s02;
-import juliet.utils.*;
+import juliet.support.*;
 
 import javax.servlet.http.*;
 

@@ -16,7 +16,7 @@ Template File: sources-sinks-74b.tmpl.java
  * */
 
 package juliet.testcases.CWE369_Divide_by_Zero.s01;
-import juliet.utils.*;
+import juliet.support.*;
 import java.util.HashMap;
 
 public class CWE369_Divide_by_Zero__float_PropertiesFile_divide_74b

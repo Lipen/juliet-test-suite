@@ -15,7 +15,7 @@ Template File: point-flaw-10.tmpl.java
 
 package juliet.testcases.CWE328_Reversible_One_Way_Hash;
 
-import juliet.utils.*;
+import juliet.support.*;
 
 import java.security.MessageDigest;
 

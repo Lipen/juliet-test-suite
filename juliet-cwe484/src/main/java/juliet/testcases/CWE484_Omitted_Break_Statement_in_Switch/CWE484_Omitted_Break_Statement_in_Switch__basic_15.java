@@ -15,7 +15,7 @@ Template File: point-flaw-15.tmpl.java
 
 package juliet.testcases.CWE484_Omitted_Break_Statement_in_Switch;
 
-import juliet.utils.*;
+import juliet.support.*;
 
 import java.security.SecureRandom;
 

@@ -16,7 +16,7 @@ Template File: sources-sinks-67a.tmpl.java
  * */
 
 package juliet.testcases.CWE400_Resource_Exhaustion.s02;
-import juliet.utils.*;
+import juliet.support.*;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;

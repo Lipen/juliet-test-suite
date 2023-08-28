@@ -10,7 +10,7 @@ import java.io.IOException;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
-import juliet.utils.AbstractTestCaseServlet;
+import juliet.support.AbstractTestCaseServlet;
 
 public class CWE585_Empty_Sync_Block__Servlet_01 extends AbstractTestCaseServlet 
 {

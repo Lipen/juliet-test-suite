@@ -7,8 +7,8 @@ package juliet.testcases.CWE609_Double_Checked_Locking;
 
 import java.util.concurrent.locks.ReentrantLock;
 
-import juliet.utils.AbstractTestCase;
-import juliet.utils.IO;
+import juliet.support.AbstractTestCase;
+import juliet.support.IO;
 
 public class CWE609_Double_Checked_Locking__Thread_01 extends AbstractTestCase 
 {

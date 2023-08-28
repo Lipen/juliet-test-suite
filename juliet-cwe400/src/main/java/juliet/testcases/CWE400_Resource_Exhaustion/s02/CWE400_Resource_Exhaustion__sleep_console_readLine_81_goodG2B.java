@@ -16,7 +16,7 @@ Template File: sources-sinks-81_goodG2B.tmpl.java
  * */
 
 package juliet.testcases.CWE400_Resource_Exhaustion.s02;
-import juliet.utils.*;
+import juliet.support.*;
 
 public class CWE400_Resource_Exhaustion__sleep_console_readLine_81_goodG2B extends CWE400_Resource_Exhaustion__sleep_console_readLine_81_base
 {

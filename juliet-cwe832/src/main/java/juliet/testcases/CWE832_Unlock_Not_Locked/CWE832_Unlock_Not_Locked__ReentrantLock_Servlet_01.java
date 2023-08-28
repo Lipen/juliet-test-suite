@@ -9,7 +9,7 @@ import java.util.concurrent.locks.ReentrantLock;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
-import juliet.utils.AbstractTestCaseServlet;
+import juliet.support.AbstractTestCaseServlet;
 
 public class CWE832_Unlock_Not_Locked__ReentrantLock_Servlet_01 extends AbstractTestCaseServlet 
 {

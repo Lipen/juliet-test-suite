@@ -16,7 +16,7 @@ Template File: sources-sinks-67a.tmpl.java
  * */
 
 package juliet.testcases.CWE191_Integer_Underflow.s03;
-import juliet.utils.*;
+import juliet.support.*;
 
 public class CWE191_Integer_Underflow__short_min_multiply_67a extends AbstractTestCase
 {

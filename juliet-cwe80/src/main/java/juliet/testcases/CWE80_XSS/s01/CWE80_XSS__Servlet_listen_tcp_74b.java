@@ -15,7 +15,7 @@ Template File: sources-sink-74b.tmpl.java
  * */
 
 package juliet.testcases.CWE80_XSS.s01;
-import juliet.utils.*;
+import juliet.support.*;
 import java.util.HashMap;
 
 import javax.servlet.http.*;

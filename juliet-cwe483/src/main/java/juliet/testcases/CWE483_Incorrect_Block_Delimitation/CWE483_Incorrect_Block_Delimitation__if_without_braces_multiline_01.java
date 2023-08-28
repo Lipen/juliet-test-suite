@@ -5,7 +5,7 @@
 
 package juliet.testcases.CWE483_Incorrect_Block_Delimitation;
 
-import juliet.utils.*;
+import juliet.support.*;
 
 import java.security.SecureRandom;
 

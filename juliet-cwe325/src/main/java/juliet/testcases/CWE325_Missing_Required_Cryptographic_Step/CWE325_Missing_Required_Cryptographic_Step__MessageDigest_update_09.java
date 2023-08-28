@@ -15,7 +15,7 @@ Template File: point-flaw-09.tmpl.java
 
 package juliet.testcases.CWE325_Missing_Required_Cryptographic_Step;
 
-import juliet.utils.*;
+import juliet.support.*;
 
 import java.security.MessageDigest;
 

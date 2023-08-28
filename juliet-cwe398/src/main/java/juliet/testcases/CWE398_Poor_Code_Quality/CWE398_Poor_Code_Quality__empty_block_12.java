@@ -15,7 +15,7 @@ Template File: point-flaw-12.tmpl.java
 
 package juliet.testcases.CWE398_Poor_Code_Quality;
 
-import juliet.utils.*;
+import juliet.support.*;
 
 public class CWE398_Poor_Code_Quality__empty_block_12 extends AbstractTestCase
 {

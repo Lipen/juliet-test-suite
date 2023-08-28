@@ -5,8 +5,8 @@
 
 package juliet.testcases.CWE248_Uncaught_Exception;
 
-import juliet.utils.AbstractTestCase;
-import juliet.utils.IO;
+import juliet.support.AbstractTestCase;
+import juliet.support.IO;
 import java.util.logging.Level;
 
 public class CWE248_Uncaught_Exception__Error_01 extends AbstractTestCase 

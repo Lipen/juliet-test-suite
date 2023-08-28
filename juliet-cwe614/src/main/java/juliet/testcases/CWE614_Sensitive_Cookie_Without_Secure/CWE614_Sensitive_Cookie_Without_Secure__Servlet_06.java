@@ -15,7 +15,7 @@ Template File: point-flaw-06.tmpl.java
 
 package juliet.testcases.CWE614_Sensitive_Cookie_Without_Secure;
 
-import juliet.utils.*;
+import juliet.support.*;
 
 import javax.servlet.http.*;
 import java.io.*;

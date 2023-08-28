@@ -5,8 +5,8 @@
 
 package juliet.testcases.CWE397_Throw_Generic;
 
-import juliet.utils.AbstractTestCase;
-import juliet.utils.IO;
+import juliet.support.AbstractTestCase;
+import juliet.support.IO;
 import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.io.FileInputStream;

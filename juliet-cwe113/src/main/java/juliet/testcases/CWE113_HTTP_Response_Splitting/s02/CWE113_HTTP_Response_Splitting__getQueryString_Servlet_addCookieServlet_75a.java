@@ -16,7 +16,7 @@ Template File: sources-sinks-75a.tmpl.java
  * */
 
 package juliet.testcases.CWE113_HTTP_Response_Splitting.s02;
-import juliet.utils.*;
+import juliet.support.*;
 import java.io.ByteArrayOutputStream;
 import java.io.ObjectOutput;
 import java.io.ObjectOutputStream;

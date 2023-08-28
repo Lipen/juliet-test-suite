@@ -17,7 +17,7 @@ Template File: sources-sinks-73b.tmpl.java
 
 package juliet.testcases.CWE476_NULL_Pointer_Dereference;
 
-import juliet.utils.*;
+import juliet.support.*;
 import java.util.LinkedList;
 
 public class CWE476_NULL_Pointer_Dereference__int_array_73b

@@ -6,8 +6,8 @@ package juliet.testcases.CWE667_Improper_Locking;
 
 import java.util.concurrent.locks.ReentrantLock;
 
-import juliet.utils.AbstractTestCase;
-import juliet.utils.IO;
+import juliet.support.AbstractTestCase;
+import juliet.support.IO;
 
 public class CWE667_Improper_Locking__basic_01 extends AbstractTestCase 
 {

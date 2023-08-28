@@ -15,7 +15,7 @@ Template File: point-flaw-02.tmpl.java
 
 package juliet.testcases.CWE584_Return_in_Finally_Block;
 
-import juliet.utils.*;
+import juliet.support.*;
 
 public class CWE584_Return_in_Finally_Block__basic_02 extends AbstractTestCase
 {

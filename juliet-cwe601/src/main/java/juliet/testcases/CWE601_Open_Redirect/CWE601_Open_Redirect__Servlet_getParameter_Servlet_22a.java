@@ -16,7 +16,7 @@ Template File: sources-sink-22a.tmpl.java
 
 package juliet.testcases.CWE601_Open_Redirect;
 
-import juliet.utils.*;
+import juliet.support.*;
 
 import javax.servlet.http.*;
 

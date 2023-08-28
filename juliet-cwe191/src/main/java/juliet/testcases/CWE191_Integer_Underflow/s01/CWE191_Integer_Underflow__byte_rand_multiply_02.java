@@ -16,7 +16,7 @@ Template File: sources-sinks-02.tmpl.java
 * */
 
 package juliet.testcases.CWE191_Integer_Underflow.s01;
-import juliet.utils.*;
+import juliet.support.*;
 
 public class CWE191_Integer_Underflow__byte_rand_multiply_02 extends AbstractTestCase
 {

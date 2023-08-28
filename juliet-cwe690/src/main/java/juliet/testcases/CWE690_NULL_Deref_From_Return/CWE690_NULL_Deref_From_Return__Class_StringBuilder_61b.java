@@ -17,7 +17,7 @@ Template File: sources-sinks-61b.tmpl.java
 
 package juliet.testcases.CWE690_NULL_Deref_From_Return;
 
-import juliet.utils.*;
+import juliet.support.*;
 
 public class CWE690_NULL_Deref_From_Return__Class_StringBuilder_61b
 {

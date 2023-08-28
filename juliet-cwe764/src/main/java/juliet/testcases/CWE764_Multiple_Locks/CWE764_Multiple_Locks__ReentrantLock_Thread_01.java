@@ -6,8 +6,8 @@ package juliet.testcases.CWE764_Multiple_Locks;
 
 import java.util.concurrent.locks.ReentrantLock;
 
-import juliet.utils.AbstractTestCase;
-import juliet.utils.IO;
+import juliet.support.AbstractTestCase;
+import juliet.support.IO;
 
 public class CWE764_Multiple_Locks__ReentrantLock_Thread_01 extends AbstractTestCase 
 {

@@ -15,7 +15,7 @@ Template File: point-flaw-07.tmpl.java
 
 package juliet.testcases.CWE534_Info_Exposure_Debug_Log;
 
-import juliet.utils.*;
+import juliet.support.*;
 
 import javax.servlet.http.*;
 import java.util.logging.*;

@@ -17,7 +17,7 @@ Template File: sources-sinks-72b.tmpl.java
 
 package juliet.testcases.CWE606_Unchecked_Loop_Condition;
 
-import juliet.utils.*;
+import juliet.support.*;
 import java.util.Vector;
 
 import javax.servlet.http.*;

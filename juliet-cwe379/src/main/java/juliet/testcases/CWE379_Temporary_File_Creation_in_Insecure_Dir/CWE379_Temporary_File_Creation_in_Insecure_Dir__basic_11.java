@@ -15,7 +15,7 @@ Template File: point-flaw-11.tmpl.java
 
 package juliet.testcases.CWE379_Temporary_File_Creation_in_Insecure_Dir;
 
-import juliet.utils.*;
+import juliet.support.*;
 
 import java.io.FileOutputStream;
 import java.io.OutputStreamWriter;

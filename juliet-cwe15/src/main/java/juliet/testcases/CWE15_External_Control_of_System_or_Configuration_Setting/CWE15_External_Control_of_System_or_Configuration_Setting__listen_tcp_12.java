@@ -15,7 +15,7 @@ Template File: sources-sink-12.tmpl.java
 
 package juliet.testcases.CWE15_External_Control_of_System_or_Configuration_Setting;
 
-import juliet.utils.*;
+import juliet.support.*;
 
 import javax.servlet.http.*;
 

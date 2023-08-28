@@ -16,7 +16,7 @@ Template File: sources-sinks-81_base.tmpl.java
  * */
 
 package juliet.testcases.CWE134_Uncontrolled_Format_String.s02;
-import juliet.utils.*;
+import juliet.support.*;
 
 public abstract class CWE134_Uncontrolled_Format_String__URLConnection_format_81_base
 {

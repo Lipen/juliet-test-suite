@@ -10,7 +10,7 @@ import java.util.concurrent.locks.ReentrantLock;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
-import juliet.utils.AbstractTestCaseServlet;
+import juliet.support.AbstractTestCaseServlet;
 
 public class CWE609_Double_Checked_Locking__Servlet_01 extends AbstractTestCaseServlet 
 {

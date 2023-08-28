@@ -15,7 +15,7 @@ Template File: point-flaw-04.tmpl.java
 
 package juliet.testcases.CWE549_Missing_Password_Masking;
 
-import juliet.utils.*;
+import juliet.support.*;
 
 import javax.servlet.http.*;
 

@@ -15,7 +15,7 @@ Template File: point-flaw-badonly-09.tmpl.java
 
 package juliet.testcases.CWE383_Direct_Use_of_Threads;
 
-import juliet.utils.*;
+import juliet.support.*;
 
 import javax.servlet.http.*;
 

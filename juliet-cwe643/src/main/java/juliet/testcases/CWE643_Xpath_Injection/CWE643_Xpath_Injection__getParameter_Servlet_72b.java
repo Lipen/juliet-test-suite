@@ -17,7 +17,7 @@ Template File: sources-sinks-72b.tmpl.java
 
 package juliet.testcases.CWE643_Xpath_Injection;
 
-import juliet.utils.*;
+import juliet.support.*;
 import java.util.Vector;
 
 import javax.servlet.http.*;

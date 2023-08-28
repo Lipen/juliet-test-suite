@@ -17,7 +17,7 @@ Template File: sources-sinks-81_base.tmpl.java
 
 package juliet.testcases.CWE319_Cleartext_Tx_Sensitive_Info;
 
-import juliet.utils.*;
+import juliet.support.*;
 
 public abstract class CWE319_Cleartext_Tx_Sensitive_Info__URLConnection_passwordAuth_81_base
 {

@@ -15,7 +15,7 @@ Template File: point-flaw-15.tmpl.java
 
 package juliet.testcases.CWE526_Info_Exposure_Environment_Variables;
 
-import juliet.utils.*;
+import juliet.support.*;
 
 public class CWE526_Info_Exposure_Environment_Variables__writeLine_15 extends AbstractTestCase
 {

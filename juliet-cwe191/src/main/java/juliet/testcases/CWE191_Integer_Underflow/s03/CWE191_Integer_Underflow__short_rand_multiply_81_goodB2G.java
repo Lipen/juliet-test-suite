@@ -16,7 +16,7 @@ Template File: sources-sinks-81_goodB2G.tmpl.java
  * */
 
 package juliet.testcases.CWE191_Integer_Underflow.s03;
-import juliet.utils.*;
+import juliet.support.*;
 
 public class CWE191_Integer_Underflow__short_rand_multiply_81_goodB2G extends CWE191_Integer_Underflow__short_rand_multiply_81_base
 {

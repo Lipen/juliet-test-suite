@@ -16,7 +16,7 @@ Template File: sources-sink-75b.tmpl.java
 
 package juliet.testcases.CWE259_Hard_Coded_Password;
 
-import juliet.utils.*;
+import juliet.support.*;
 import java.io.ByteArrayInputStream;
 import java.io.ObjectInputStream;
 import java.io.IOException;

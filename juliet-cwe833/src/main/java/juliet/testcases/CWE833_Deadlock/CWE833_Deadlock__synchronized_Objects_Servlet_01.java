@@ -7,7 +7,7 @@ package juliet.testcases.CWE833_Deadlock;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
-import juliet.utils.AbstractTestCaseServlet;
+import juliet.support.AbstractTestCaseServlet;
 
 public class CWE833_Deadlock__synchronized_Objects_Servlet_01 extends AbstractTestCaseServlet 
 {

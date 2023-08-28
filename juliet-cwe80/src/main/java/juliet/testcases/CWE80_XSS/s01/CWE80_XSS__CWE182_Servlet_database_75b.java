@@ -15,7 +15,7 @@ Template File: sources-sink-75b.tmpl.java
  * */
 
 package juliet.testcases.CWE80_XSS.s01;
-import juliet.utils.*;
+import juliet.support.*;
 import java.io.ByteArrayInputStream;
 import java.io.ObjectInputStream;
 import java.io.IOException;

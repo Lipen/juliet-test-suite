@@ -16,7 +16,7 @@ Template File: sources-sinks-22b.tmpl.java
  * */
 
 package juliet.testcases.CWE369_Divide_by_Zero.s01;
-import juliet.utils.*;
+import juliet.support.*;
 
 public class CWE369_Divide_by_Zero__float_console_readLine_divide_22b
 {

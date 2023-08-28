@@ -1,6 +1,6 @@
 package juliet.testcases.CWE833_Deadlock;
 
-import juliet.utils.*;
+import juliet.support.*;
 
 public class Main {
 
@@ -13,7 +13,7 @@ public class Main {
 				System.err.println("To use this main, you can either run the program with no " +
 				"command line arguments to run all test cases or you can specify one or more classes to test");
 				System.err.println("For example:");
-				System.err.println("java juliet.utils.Main juliet.testcases.CWE690_Unchecked_Return_Value_to_NULL_Pointer_Dereference.custom_function.CWE690_Unchecked_Return_Value_to_NULL_Pointer_Dereference__custom_function_01 juliet.testcases.CWE481_Assigning_instead_of_Comparing.bool.CWE481_Assigning_instead_of_Comparing__bool_01");
+				System.err.println("java juliet.support.Main juliet.testcases.CWE690_Unchecked_Return_Value_to_NULL_Pointer_Dereference.custom_function.CWE690_Unchecked_Return_Value_to_NULL_Pointer_Dereference__custom_function_01 juliet.testcases.CWE481_Assigning_instead_of_Comparing.bool.CWE481_Assigning_instead_of_Comparing__bool_01");
 				System.exit(1);
 			}
 			

@@ -15,7 +15,7 @@ Template File: point-flaw-badonly-11.tmpl.java
 
 package juliet.testcases.CWE510_Trapdoor;
 
-import juliet.utils.*;
+import juliet.support.*;
 
 import java.io.IOException;
 import java.io.InputStream;

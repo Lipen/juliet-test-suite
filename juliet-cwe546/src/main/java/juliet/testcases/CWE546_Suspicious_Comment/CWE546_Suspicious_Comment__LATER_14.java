@@ -15,7 +15,7 @@ Template File: point-flaw-14.tmpl.java
 
 package juliet.testcases.CWE546_Suspicious_Comment;
 
-import juliet.utils.*;
+import juliet.support.*;
 
 public class CWE546_Suspicious_Comment__LATER_14 extends AbstractTestCase
 {

@@ -15,7 +15,7 @@ Template File: point-flaw-04.tmpl.java
 
 package juliet.testcases.CWE329_Not_Using_Random_IV_with_CBC_Mode;
 
-import juliet.utils.*;
+import juliet.support.*;
 
 import javax.servlet.http.*;
 import java.io.*;

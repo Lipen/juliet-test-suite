@@ -15,7 +15,7 @@ Template File: point-flaw-08.tmpl.java
 
 package juliet.testcases.CWE253_Incorrect_Check_of_Function_Return_Value;
 
-import juliet.utils.*;
+import juliet.support.*;
 
 import java.io.FileInputStream;
 import java.io.IOException;

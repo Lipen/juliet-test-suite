@@ -16,7 +16,7 @@ Template File: sources-sinks-75a.tmpl.java
  * */
 
 package juliet.testcases.CWE129_Improper_Validation_of_Array_Index.s02;
-import juliet.utils.*;
+import juliet.support.*;
 import java.io.ByteArrayOutputStream;
 import java.io.ObjectOutput;
 import java.io.ObjectOutputStream;

@@ -5,7 +5,7 @@ example, see CWE 580.
 
 */
 
-package juliet.utils;
+package juliet.support;
 
 public abstract class AbstractTestCaseClassIssue extends AbstractTestCaseBase implements Cloneable 
 {    

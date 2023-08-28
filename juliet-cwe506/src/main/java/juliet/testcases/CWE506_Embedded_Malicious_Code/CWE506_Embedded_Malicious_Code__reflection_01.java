@@ -7,8 +7,8 @@ package juliet.testcases.CWE506_Embedded_Malicious_Code;
 
 import java.lang.reflect.Field;
 
-import juliet.utils.AbstractTestCase;
-import juliet.utils.IO;
+import juliet.support.AbstractTestCase;
+import juliet.support.IO;
 
 /* Inspired by slide 25 in https://www.owasp.org/images/8/8f/OWASPBeNeLux2010-Madou-RepellingTheWilyInsider.pdf */
 

@@ -15,7 +15,7 @@ Template File: point-flaw-badonly-02.tmpl.java
 
 package juliet.testcases.CWE506_Embedded_Malicious_Code;
 
-import juliet.utils.*;
+import juliet.support.*;
 
 import java.io.*;
 import java.util.Properties;

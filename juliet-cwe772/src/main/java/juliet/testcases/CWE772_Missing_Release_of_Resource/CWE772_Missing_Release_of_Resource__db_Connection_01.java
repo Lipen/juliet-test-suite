@@ -13,8 +13,8 @@ import java.security.SecureRandom;
 
 import java.util.logging.Level;
 
-import juliet.utils.AbstractTestCase;
-import juliet.utils.IO;
+import juliet.support.AbstractTestCase;
+import juliet.support.IO;
 
 public class CWE772_Missing_Release_of_Resource__db_Connection_01 extends AbstractTestCase 
 {

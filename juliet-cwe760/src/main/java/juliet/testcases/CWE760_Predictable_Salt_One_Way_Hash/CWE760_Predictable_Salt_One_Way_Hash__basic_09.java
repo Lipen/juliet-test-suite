@@ -15,7 +15,7 @@ Template File: point-flaw-09.tmpl.java
 
 package juliet.testcases.CWE760_Predictable_Salt_One_Way_Hash;
 
-import juliet.utils.*;
+import juliet.support.*;
 
 import java.security.MessageDigest;
 import java.security.SecureRandom;

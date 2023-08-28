@@ -15,7 +15,7 @@ Template File: point-flaw-08.tmpl.java
 
 package juliet.testcases.CWE486_Compare_Classes_by_Name;
 
-import juliet.utils.*;
+import juliet.support.*;
 
 public class CWE486_Compare_Classes_by_Name__basic_08 extends AbstractTestCase
 {

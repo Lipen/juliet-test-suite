@@ -16,7 +16,7 @@ Template File: sources-sink-81_goodG2B.tmpl.java
 
 package juliet.testcases.CWE601_Open_Redirect;
 
-import juliet.utils.*;
+import juliet.support.*;
 
 import javax.servlet.http.*;
 

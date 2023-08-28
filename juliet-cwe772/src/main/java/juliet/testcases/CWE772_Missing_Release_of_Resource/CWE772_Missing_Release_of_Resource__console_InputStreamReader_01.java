@@ -12,8 +12,8 @@ import java.io.UnsupportedEncodingException;
 
 import java.util.logging.Level;
 
-import juliet.utils.AbstractTestCase;
-import juliet.utils.IO;
+import juliet.support.AbstractTestCase;
+import juliet.support.IO;
 
 public class CWE772_Missing_Release_of_Resource__console_InputStreamReader_01 extends AbstractTestCase 
 {    

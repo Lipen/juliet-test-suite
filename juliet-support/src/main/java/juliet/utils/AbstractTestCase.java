@@ -5,7 +5,7 @@ a "bad" and "good" function.
 
 */
 
-package juliet.utils;
+package juliet.support;
 
 public abstract class AbstractTestCase extends AbstractTestCaseBase
 {

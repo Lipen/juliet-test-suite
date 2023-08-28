@@ -10,7 +10,7 @@ package juliet.testcases.CWE499_Sensitive_Data_Serializable;
 import java.sql.*;
 import java.io.*;
 import java.util.logging.Level;
-import juliet.utils.*;
+import juliet.support.*;
 
  
 /* FLAW: Class extends a serializable class, does not explicitly deny serialization, and contains sensitive data. */ 

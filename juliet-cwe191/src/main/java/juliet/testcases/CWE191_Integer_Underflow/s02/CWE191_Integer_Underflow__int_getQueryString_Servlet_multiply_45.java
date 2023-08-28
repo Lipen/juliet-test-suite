@@ -16,7 +16,7 @@ Template File: sources-sinks-45.tmpl.java
  * */
 
 package juliet.testcases.CWE191_Integer_Underflow.s02;
-import juliet.utils.*;
+import juliet.support.*;
 
 import javax.servlet.http.*;
 

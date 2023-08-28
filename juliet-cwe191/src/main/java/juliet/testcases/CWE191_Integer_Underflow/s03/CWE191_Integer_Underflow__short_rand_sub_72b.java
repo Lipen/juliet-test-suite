@@ -16,7 +16,7 @@ Template File: sources-sinks-72b.tmpl.java
  * */
 
 package juliet.testcases.CWE191_Integer_Underflow.s03;
-import juliet.utils.*;
+import juliet.support.*;
 import java.util.Vector;
 
 public class CWE191_Integer_Underflow__short_rand_sub_72b

@@ -16,7 +16,7 @@ Template File: sources-sink-74b.tmpl.java
 
 package juliet.testcases.CWE566_Authorization_Bypass_Through_SQL_Primary;
 
-import juliet.utils.*;
+import juliet.support.*;
 import java.util.HashMap;
 
 import javax.servlet.http.*;

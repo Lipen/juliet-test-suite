@@ -16,7 +16,7 @@ Template File: sources-sinks-81_goodG2B.tmpl.java
  * */
 
 package juliet.testcases.CWE369_Divide_by_Zero.s02;
-import juliet.utils.*;
+import juliet.support.*;
 
 public class CWE369_Divide_by_Zero__float_random_divide_81_goodG2B extends CWE369_Divide_by_Zero__float_random_divide_81_base
 {

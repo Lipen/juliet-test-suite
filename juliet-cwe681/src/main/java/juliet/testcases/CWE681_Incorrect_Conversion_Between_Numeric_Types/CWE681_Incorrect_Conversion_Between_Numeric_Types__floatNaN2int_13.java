@@ -15,7 +15,7 @@ Template File: point-flaw-13.tmpl.java
 
 package juliet.testcases.CWE681_Incorrect_Conversion_Between_Numeric_Types;
 
-import juliet.utils.*;
+import juliet.support.*;
 
 import javax.servlet.http.*;
 import java.io.*;

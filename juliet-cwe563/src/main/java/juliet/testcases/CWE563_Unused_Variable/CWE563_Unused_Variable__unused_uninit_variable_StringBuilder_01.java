@@ -16,7 +16,7 @@ Template File: source-sinks-01.tmpl.java
 
 package juliet.testcases.CWE563_Unused_Variable;
 
-import juliet.utils.*;
+import juliet.support.*;
 
 public class CWE563_Unused_Variable__unused_uninit_variable_StringBuilder_01 extends AbstractTestCase
 {

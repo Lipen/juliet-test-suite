@@ -16,7 +16,7 @@ Template File: sources-sinks-21.tmpl.java
  * */
 
 package juliet.testcases.CWE400_Resource_Exhaustion.s03;
-import juliet.utils.*;
+import juliet.support.*;
 
 import java.security.SecureRandom;
 

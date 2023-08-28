@@ -6,8 +6,8 @@ package juliet.testcases.CWE833_Deadlock;
 
 import java.util.logging.Level;
 
-import juliet.utils.AbstractTestCase;
-import juliet.utils.IO;
+import juliet.support.AbstractTestCase;
+import juliet.support.IO;
 
 public class CWE833_Deadlock__synchronized_methods_Thread_01 extends AbstractTestCase 
 {

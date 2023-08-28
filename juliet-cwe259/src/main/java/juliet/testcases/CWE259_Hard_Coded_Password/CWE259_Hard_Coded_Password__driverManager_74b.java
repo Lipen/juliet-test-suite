@@ -16,7 +16,7 @@ Template File: sources-sink-74b.tmpl.java
 
 package juliet.testcases.CWE259_Hard_Coded_Password;
 
-import juliet.utils.*;
+import juliet.support.*;
 import java.util.HashMap;
 
 import java.util.logging.Level;

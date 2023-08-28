@@ -12,7 +12,7 @@ package juliet.testcases.CWE499_Sensitive_Data_Serializable;
 import java.sql.*;
 import java.io.*;
 import java.util.logging.Level;
-import juliet.utils.*;
+import juliet.support.*;
 
 
 public class CWE499_Sensitive_Data_Serializable__serializable_01_good1 extends CWE499_Sensitive_Data_Serializable__serializable_Helper 

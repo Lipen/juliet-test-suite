@@ -16,7 +16,7 @@ Template File: sources-sinks-75b.tmpl.java
  * */
 
 package juliet.testcases.CWE134_Uncontrolled_Format_String.s02;
-import juliet.utils.*;
+import juliet.support.*;
 import java.io.ByteArrayInputStream;
 import java.io.ObjectInputStream;
 import java.io.IOException;

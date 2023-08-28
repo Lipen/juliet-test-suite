@@ -15,7 +15,7 @@ Template File: point-flaw-16.tmpl.java
 
 package juliet.testcases.CWE617_Reachable_Assertion;
 
-import juliet.utils.*;
+import juliet.support.*;
 
 public class CWE617_Reachable_Assertion__length_16 extends AbstractTestCase
 {

@@ -15,7 +15,7 @@ Template File: point-flaw-15.tmpl.java
 
 package juliet.testcases.CWE586_Explicit_Call_to_Finalize;
 
-import juliet.utils.*;
+import juliet.support.*;
 
 public class CWE586_Explicit_Call_to_Finalize__basic_15 extends AbstractTestCase
 {

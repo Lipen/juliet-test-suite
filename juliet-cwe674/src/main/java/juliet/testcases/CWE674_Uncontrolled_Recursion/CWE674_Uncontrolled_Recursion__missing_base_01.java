@@ -7,8 +7,8 @@ package juliet.testcases.CWE674_Uncontrolled_Recursion;
 
 import java.security.SecureRandom;
 
-import juliet.utils.AbstractTestCase;
-import juliet.utils.IO;
+import juliet.support.AbstractTestCase;
+import juliet.support.IO;
 
 public class CWE674_Uncontrolled_Recursion__missing_base_01 extends AbstractTestCase 
 {

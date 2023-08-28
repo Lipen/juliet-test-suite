@@ -12,8 +12,8 @@ import java.io.IOException;
 
 import java.util.logging.Level;
 
-import juliet.utils.AbstractTestCase;
-import juliet.utils.IO;
+import juliet.support.AbstractTestCase;
+import juliet.support.IO;
 
 public class CWE775_Missing_Release_of_File_Descriptor_or_Handle__FileReader_01 extends AbstractTestCase 
 {    

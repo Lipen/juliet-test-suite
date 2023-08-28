@@ -16,7 +16,7 @@ Template File: sources-sink-73a.tmpl.java
 
 package juliet.testcases.CWE23_Relative_Path_Traversal;
 
-import juliet.utils.*;
+import juliet.support.*;
 import java.util.LinkedList;
 
 import java.io.*;

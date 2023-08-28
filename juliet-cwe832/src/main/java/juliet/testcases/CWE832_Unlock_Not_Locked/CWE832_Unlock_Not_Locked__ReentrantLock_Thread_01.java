@@ -6,8 +6,8 @@ package juliet.testcases.CWE832_Unlock_Not_Locked;
 
 import java.util.concurrent.locks.ReentrantLock;
 
-import juliet.utils.AbstractTestCase;
-import juliet.utils.IO;
+import juliet.support.AbstractTestCase;
+import juliet.support.IO;
 
 public class CWE832_Unlock_Not_Locked__ReentrantLock_Thread_01 extends AbstractTestCase 
 {

@@ -16,7 +16,7 @@ Template File: sources-sinks-16.tmpl.java
 * */
 
 package juliet.testcases.CWE134_Uncontrolled_Format_String.s01;
-import juliet.utils.*;
+import juliet.support.*;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;

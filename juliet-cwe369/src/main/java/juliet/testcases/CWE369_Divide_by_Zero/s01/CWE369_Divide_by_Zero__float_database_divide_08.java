@@ -16,7 +16,7 @@ Template File: sources-sinks-08.tmpl.java
 * */
 
 package juliet.testcases.CWE369_Divide_by_Zero.s01;
-import juliet.utils.*;
+import juliet.support.*;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;

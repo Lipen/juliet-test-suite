@@ -12,8 +12,8 @@ import java.io.IOException;
 
 import java.util.logging.Level;
 
-import juliet.utils.AbstractTestCase;
-import juliet.utils.IO;
+import juliet.support.AbstractTestCase;
+import juliet.support.IO;
 
 public class CWE404_Improper_Resource_Shutdown__FileReader_01 extends AbstractTestCase 
 {    

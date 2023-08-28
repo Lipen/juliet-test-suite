@@ -17,7 +17,7 @@ Template File: sources-sinks-81_goodB2G.tmpl.java
 
 package juliet.testcases.CWE690_NULL_Deref_From_Return;
 
-import juliet.utils.*;
+import juliet.support.*;
 
 public class CWE690_NULL_Deref_From_Return__Class_StringBuilder_81_goodB2G extends CWE690_NULL_Deref_From_Return__Class_StringBuilder_81_base
 {

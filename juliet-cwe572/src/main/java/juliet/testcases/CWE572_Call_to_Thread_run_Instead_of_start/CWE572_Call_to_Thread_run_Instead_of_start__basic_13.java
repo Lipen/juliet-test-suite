@@ -15,7 +15,7 @@ Template File: point-flaw-13.tmpl.java
 
 package juliet.testcases.CWE572_Call_to_Thread_run_Instead_of_start;
 
-import juliet.utils.*;
+import juliet.support.*;
 
 public class CWE572_Call_to_Thread_run_Instead_of_start__basic_13 extends AbstractTestCase
 {

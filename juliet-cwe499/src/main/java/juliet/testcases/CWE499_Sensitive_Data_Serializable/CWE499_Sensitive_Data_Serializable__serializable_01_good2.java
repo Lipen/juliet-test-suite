@@ -13,7 +13,7 @@ package juliet.testcases.CWE499_Sensitive_Data_Serializable;
 import java.sql.*;
 import java.io.*;
 import java.util.logging.Level;
-import juliet.utils.*;
+import juliet.support.*;
 
 /* We would never expect to see a real class like this, but our implementation tries to ensure the fact
  * that one of the fields is sensitive */

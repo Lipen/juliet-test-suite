@@ -5,8 +5,8 @@
 
 package juliet.testcases.CWE585_Empty_Sync_Block;
 
-import juliet.utils.AbstractTestCase;
-import juliet.utils.IO;
+import juliet.support.AbstractTestCase;
+import juliet.support.IO;
 
 public class CWE585_Empty_Sync_Block__Thread_01 extends AbstractTestCase 
 {

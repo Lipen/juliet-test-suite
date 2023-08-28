@@ -5,7 +5,7 @@
 
 package juliet.testcases.CWE563_Unused_Variable;
 
-import juliet.utils.*;
+import juliet.support.*;
 
 public class CWE563_Unused_Variable__unused_public_member_value_01_good1 extends AbstractTestCaseClassIssueGood 
 {

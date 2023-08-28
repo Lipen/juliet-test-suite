@@ -16,7 +16,7 @@ Template File: sources-sink-75a.tmpl.java
 
 package juliet.testcases.CWE470_Unsafe_Reflection;
 
-import juliet.utils.*;
+import juliet.support.*;
 import java.io.ByteArrayOutputStream;
 import java.io.ObjectOutput;
 import java.io.ObjectOutputStream;

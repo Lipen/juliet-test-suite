@@ -9,7 +9,7 @@
 package juliet.testcases.CWE499_Sensitive_Data_Serializable;
 
 import java.io.*;
-import juliet.utils.*;
+import juliet.support.*;
  
 public class CWE499_Sensitive_Data_Serializable__serializable_Helper extends AbstractTestCaseClassIssue implements Serializable
 {

@@ -16,7 +16,7 @@ Template File: source-sinks-81_base.tmpl.java
 
 package juliet.testcases.CWE563_Unused_Variable;
 
-import juliet.utils.*;
+import juliet.support.*;
 
 public abstract class CWE563_Unused_Variable__unused_init_variable_long_81_base
 {

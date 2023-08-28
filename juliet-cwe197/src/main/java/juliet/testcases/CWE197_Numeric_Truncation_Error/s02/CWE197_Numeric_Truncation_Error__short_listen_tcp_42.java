@@ -14,7 +14,7 @@ Template File: sources-sink-42.tmpl.java
  * */
 
 package juliet.testcases.CWE197_Numeric_Truncation_Error.s02;
-import juliet.utils.*;
+import juliet.support.*;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

@@ -15,7 +15,7 @@ Template File: sources-sink-51a.tmpl.java
 
 package juliet.testcases.CWE81_XSS_Error_Message;
 
-import juliet.utils.*;
+import juliet.support.*;
 
 import javax.servlet.http.*;
 

@@ -9,8 +9,8 @@ import javax.servlet.http.HttpServletResponse;
 
 import java.util.logging.Level;
 
-import juliet.utils.IO;
-import juliet.utils.AbstractTestCaseServlet;
+import juliet.support.IO;
+import juliet.support.AbstractTestCaseServlet;
 
 public class CWE833_Deadlock__synchronized_methods_Servlet_01 extends AbstractTestCaseServlet 
 {

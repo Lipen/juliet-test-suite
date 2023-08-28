@@ -16,7 +16,7 @@ Template File: sources-sinks-74b.tmpl.java
  * */
 
 package juliet.testcases.CWE134_Uncontrolled_Format_String.s01;
-import juliet.utils.*;
+import juliet.support.*;
 import java.util.HashMap;
 
 public class CWE134_Uncontrolled_Format_String__connect_tcp_format_74b

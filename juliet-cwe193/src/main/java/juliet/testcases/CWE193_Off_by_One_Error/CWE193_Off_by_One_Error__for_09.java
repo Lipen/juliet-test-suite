@@ -15,7 +15,7 @@ Template File: point-flaw-09.tmpl.java
 
 package juliet.testcases.CWE193_Off_by_One_Error;
 
-import juliet.utils.*;
+import juliet.support.*;
 
 public class CWE193_Off_by_One_Error__for_09 extends AbstractTestCase
 {

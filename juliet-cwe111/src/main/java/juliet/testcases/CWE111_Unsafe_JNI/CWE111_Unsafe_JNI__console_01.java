@@ -12,8 +12,8 @@
 
 package juliet.testcases.CWE111_Unsafe_JNI;
 
-import juliet.utils.AbstractTestCaseBadOnly;
-import juliet.utils.IO;
+import juliet.support.AbstractTestCaseBadOnly;
+import juliet.support.IO;
 import java.io.*;
 
 import java.util.logging.Level;

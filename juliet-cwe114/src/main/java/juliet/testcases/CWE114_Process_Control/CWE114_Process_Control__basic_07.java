@@ -15,7 +15,7 @@ Template File: point-flaw-07.tmpl.java
 
 package juliet.testcases.CWE114_Process_Control;
 
-import juliet.utils.*;
+import juliet.support.*;
 
 public class CWE114_Process_Control__basic_07 extends AbstractTestCase
 {

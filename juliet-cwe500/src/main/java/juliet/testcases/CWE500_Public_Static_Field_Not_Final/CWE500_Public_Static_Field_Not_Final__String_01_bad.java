@@ -9,7 +9,7 @@
 
 package juliet.testcases.CWE500_Public_Static_Field_Not_Final;
 
-import juliet.utils.*;
+import juliet.support.*;
 
 public class CWE500_Public_Static_Field_Not_Final__String_01_bad extends AbstractTestCaseClassIssueBad implements Cloneable 
 {

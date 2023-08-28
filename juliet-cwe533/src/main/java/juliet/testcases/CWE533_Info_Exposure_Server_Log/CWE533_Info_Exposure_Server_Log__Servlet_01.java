@@ -15,7 +15,7 @@ Template File: point-flaw-01.tmpl.java
 
 package juliet.testcases.CWE533_Info_Exposure_Server_Log;
 
-import juliet.utils.*;
+import juliet.support.*;
 
 import javax.servlet.http.*;
 

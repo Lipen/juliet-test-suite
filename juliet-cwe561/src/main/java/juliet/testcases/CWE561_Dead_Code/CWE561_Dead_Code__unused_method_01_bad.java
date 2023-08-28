@@ -4,8 +4,8 @@
  * */
 package juliet.testcases.CWE561_Dead_Code;
 
-import juliet.utils.AbstractTestCaseClassIssueBad;
-import juliet.utils.IO;
+import juliet.support.AbstractTestCaseClassIssueBad;
+import juliet.support.IO;
 
 public class CWE561_Dead_Code__unused_method_01_bad extends AbstractTestCaseClassIssueBad 
 {

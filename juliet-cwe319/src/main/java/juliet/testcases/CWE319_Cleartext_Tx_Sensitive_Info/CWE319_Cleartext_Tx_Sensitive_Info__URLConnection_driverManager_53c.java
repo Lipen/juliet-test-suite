@@ -17,7 +17,7 @@ Template File: sources-sinks-53c.tmpl.java
 
 package juliet.testcases.CWE319_Cleartext_Tx_Sensitive_Info;
 
-import juliet.utils.*;
+import juliet.support.*;
 
 public class CWE319_Cleartext_Tx_Sensitive_Info__URLConnection_driverManager_53c
 {

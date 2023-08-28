@@ -17,7 +17,7 @@ Template File: sources-sinks-67a.tmpl.java
 
 package juliet.testcases.CWE476_NULL_Pointer_Dereference;
 
-import juliet.utils.*;
+import juliet.support.*;
 
 public class CWE476_NULL_Pointer_Dereference__int_array_67a extends AbstractTestCase
 {

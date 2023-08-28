@@ -16,7 +16,7 @@ Template File: sources-sink-66b.tmpl.java
 
 package juliet.testcases.CWE321_Hard_Coded_Cryptographic_Key;
 
-import juliet.utils.*;
+import juliet.support.*;
 
 import javax.crypto.spec.SecretKeySpec;
 import javax.crypto.Cipher;

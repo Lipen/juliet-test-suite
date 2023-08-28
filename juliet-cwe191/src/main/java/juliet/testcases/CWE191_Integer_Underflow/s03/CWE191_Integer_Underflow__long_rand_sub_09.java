@@ -16,7 +16,7 @@ Template File: sources-sinks-09.tmpl.java
 * */
 
 package juliet.testcases.CWE191_Integer_Underflow.s03;
-import juliet.utils.*;
+import juliet.support.*;
 
 public class CWE191_Integer_Underflow__long_rand_sub_09 extends AbstractTestCase
 {

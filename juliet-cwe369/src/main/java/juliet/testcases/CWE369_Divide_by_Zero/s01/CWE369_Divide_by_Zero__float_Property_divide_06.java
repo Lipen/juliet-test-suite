@@ -16,7 +16,7 @@ Template File: sources-sinks-06.tmpl.java
 * */
 
 package juliet.testcases.CWE369_Divide_by_Zero.s01;
-import juliet.utils.*;
+import juliet.support.*;
 
 import java.util.logging.Level;
 
