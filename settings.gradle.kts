@@ -3,6 +3,7 @@ rootProject.name = "juliet"
 plugins {
     `gradle-enterprise`
     id("org.ajoberstar.reckon.settings") version "0.18.0"
+    id("org.gradle.toolchains.foojay-resolver-convention") version "0.6.0"
 }
 
 gradleEnterprise {
